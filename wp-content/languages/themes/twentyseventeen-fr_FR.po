@@ -11,14 +11,6 @@ msgstr ""
 "Language: fr\n"
 "Project-Id-Version: Themes - Twenty Seventeen\n"
 
-#. Description of the theme
-msgid "Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device."
-msgstr "Twenty Seventeen donne vie à votre site avec un en-tête vidéo et des images mises en avant immersives. En mettant l’accent sur les sites d’entreprises, il offre de multiples sections sur la page d’accueil comme sur les widgets, les menus de navigation et sociaux, un logo et bien plus encore. Personnalisez sa grille asymétrique avec votre propre jeu de couleurs et mettez en valeur vos contenus multimédias avec les formats d’articles. Notre thème par défaut pour 2017 fonctionne dans de nombreuses langues, dans tous les domaines et sur n’importe quel type d’appareils."
-
-#. Theme Name of the theme
-msgid "Twenty Seventeen"
-msgstr "Twenty Seventeen"
-
 #: template-parts/footer/footer-widgets.php:18
 msgid "Footer"
 msgstr "Pied de page"
@@ -307,29 +299,21 @@ msgstr "Une réponse sur &ldquo;%s&rdquo;"
 msgid "Page"
 msgstr "Page"
 
-#: archive.php:50 index.php:54 search.php:51
-msgid "Next page"
-msgstr "Page suivante"
-
-#: archive.php:49 index.php:53 search.php:50
-msgid "Previous page"
-msgstr "Page précédente"
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Aie&nbsp;! Cette page est introuvable."
 
 #: 404.php:24
 msgid "It looks like nothing was found at this location. Maybe try a search?"
 msgstr "Apparemment, rien n&rsquo;a été trouvé à cette adresse. Essayez avec une recherche&nbsp;?"
 
-#: 404.php:21
-msgid "Oops! That page can&rsquo;t be found."
-msgstr "Aie&nbsp;! Cette page est introuvable."
+#: archive.php:49 index.php:53 search.php:50
+msgid "Previous page"
+msgstr "Page précédente"
 
-#. Author of the theme
-msgid "the WordPress team"
-msgstr "l’équipe WordPress"
-
-#. Theme URI of the theme
-msgid "https://wordpress.org/themes/twentyseventeen/"
-msgstr "https://wordpress.org/themes/twentyseventeen/"
+#: archive.php:50 index.php:54 search.php:51
+msgid "Next page"
+msgstr "Page suivante"
 
 #. Author URI of the theme
 #: template-parts/footer/site-info.php:18

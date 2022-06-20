@@ -12,10 +12,10 @@ Cependant, elle ne possède pas encore de site web pour promouvoir la vente et l
 
 ## Thème Wordpress
 
-Explication du choix du thème [ici](https://gitlab.com/Boris74000/oc-projet-2-chalets-et-caviar/-/blob/master/wp-content/themes/edge_child/livrables/theme_edge.pdf)
+Explication du choix du thème [ici]([https://gitlab.com/Boris74000/oc-projet-2-chalets-et-caviar/-/blob/master/wp-content/themes/edge_child/livrables/theme_edge.pdf](https://github.com/Boris74000/OC-Projet-2-Chalets-et-Caviar/blob/master/PCHALET_04_theme.pdf))
 
 ## Documentation du thème 
 
-[Comment utiliser le back-office](https://gitlab.com/Boris74000/oc-projet-2-chalets-et-caviar/-/blob/master/wp-content/themes/edge_child/livrables/documentation_wordpress.pdf)
+[Comment utiliser le back-office](https://github.com/Boris74000/OC-Projet-2-Chalets-et-Caviar/blob/master/PCHALET_03_doc.pdf)
 
 

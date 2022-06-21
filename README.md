@@ -1,4 +1,4 @@
-# Intégrez un thème Wordpress pour un client
+# OpenClassrooms Projet 2 => Intégrez un thème Wordpress pour un client
 
 ## Consignes du projet
 
